@@ -31,7 +31,7 @@ Directors' contributions to Pixar's success.
 A decision tree visualization to break down performance metrics by film attributes.
 Interactive Dashboards: Interactive dashboards allow users to navigate data with slicers (e.g., by year, rating or director) and focus on key trends like revenue peaks or genre popularity.
 
-![alt text](DashBoard.png)
+<img width="863" alt="DashBoard" src="https://github.com/user-attachments/assets/8f497e69-724e-4784-b7a3-387ff2b18ea8" />
 
 # Key Findings:
 
