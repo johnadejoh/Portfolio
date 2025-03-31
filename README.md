@@ -35,6 +35,8 @@ Interactive Dashboards: Interactive dashboards allow users to navigate data with
 
 # Key Findings:
 
+<img width="863" alt="DashBoard" src="https://github.com/user-attachments/assets/83656ca6-ec72-4a05-9f34-3d2c4c933e7e" />
+
 ⭐ Financial Performance: Return on Investment (ROI) highlights include Toy Story at a remarkable 1215%, Finding Nemo at 827%, and A Bug's Life at 203%. Turning Red faced significant financial challenges, recording a profit margin of -88%.
 
 ⭐Revenue trends: From 2020 to 2022, Pixar experienced financial struggles, with three films reporting negative profit margins, reflecting the impact of the pandemic era.
