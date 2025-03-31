@@ -1,3 +1,6 @@
+
+<img width="863" alt="DashBoard" src="https://github.com/user-attachments/assets/f22e172b-fbae-45a6-8572-c0dd37bdc657" />
+
 # About this project
 This report explores 30 years of Pixar's film history, diving into key aspects such as genres, ratings, and revenue performance. It provides insights into how Pixar's films have evolved and performed over time, offering both high-level overviews and detailed breakdowns.
 Link to Dashboard
